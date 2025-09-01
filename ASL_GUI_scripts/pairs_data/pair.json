@@ -1,0 +1,631 @@
+{
+  "gesture_pairs": [
+    {
+      "current_pair": [0, 1],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Both curled (correct)",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Uncurl thumb from index finger to a curled position",
+        "Extend index finger upward instead of touching thumb"
+      ]
+    },
+    {
+      "current_pair": [0, 2],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Release thumb-index connection and curl thumb inward",
+        "Extend both index and middle fingers upward"
+      ]
+    },
+    {
+      "current_pair": [0, 3],
+      "differences": {
+        "thumb": "Current: touching index | Target: extended upward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend thumb upward (don't touch index)",
+        "Straighten index and middle fingers upward"
+      ]
+    },
+    {
+      "current_pair": [0, 4],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Current: curled | Target: extended"
+      },
+      "correction_tips": [
+        "Release thumb from index and curl it inward",
+        "Extend all fingers except thumb upward"
+      ]
+    },
+    {
+      "current_pair": [0, 5],
+      "differences": {
+        "thumb": "Current: touching index | Target: extended outward",
+        "index": "Current: touching thumb | Target: extended outward",
+        "middle": "Current: curled | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend thumb outward (away from palm)",
+        "Spread all fingers outward instead of curling"
+      ]
+    },
+    {
+      "current_pair": [0, 6],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Current: curled | Target: extended upward",
+        "ring": "Current: curled | Target: extended upward",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Disconnect thumb from index and curl it inward",
+        "Extend middle and ring fingers upward"
+      ]
+    },
+    {
+      "current_pair": [0, 7],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended upward",
+        "middle": "Current: curled | Target: extended upward",
+        "ring": "Current: curled | Target: curled inward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Release thumb-index connection",
+        "Extend middle finger upward and pinky outward"
+      ]
+    },
+    {
+      "current_pair": [0, 8],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Point index finger outward instead of touching thumb",
+        "Extend ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [0, 9],
+      "differences": {
+        "thumb": "Current: touching index | Target: curled inward",
+        "index": "Current: touching thumb | Target: curled inward",
+        "middle": "Current: curled | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward (don't touch thumb)",
+        "Extend middle, ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [1, 2],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend middle finger upward",
+        "Keep other fingers in current positions"
+      ]
+    },
+    {
+      "current_pair": [1, 3],
+      "differences": {
+        "thumb": "Current: curled inward | Target: extended upward",
+        "index": "Both extended (correct)",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend thumb upward",
+        "Straighten middle finger while keeping index extended"
+      ]
+    },
+    {
+      "current_pair": [1, 4],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Current: curled | Target: extended"
+      },
+      "correction_tips": [
+        "Extend middle, ring, and pinky fingers upward",
+        "Maintain thumb curl and index extension"
+      ]
+    },
+    {
+      "current_pair": [1, 5],
+      "differences": {
+        "thumb": "Current: curled inward | Target: extended outward",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Current: curled | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend thumb outward (away from palm)",
+        "Spread all fingers outward while maintaining extension"
+      ]
+    },
+    {
+      "current_pair": [1, 6],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend middle and ring fingers upward",
+        "Keep pinky curled as in current position"
+      ]
+    },
+    {
+      "current_pair": [1, 7],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Current: curled | Target: extended",
+        "ring": "Both curled (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend middle finger upward",
+        "Extend pinky outward while keeping ring finger curled"
+      ]
+    },
+    {
+      "current_pair": [1, 8],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle index finger outward",
+        "Extend ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [1, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Current: curled | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Extend middle, ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [2, 3],
+      "differences": {
+        "thumb": "Current: curled inward | Target: extended upward",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Both curled (correct)",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend thumb upward while keeping other fingers unchanged"
+      ]
+    },
+    {
+      "current_pair": [2, 4],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Current: curled | Target: extended"
+      },
+      "correction_tips": [
+        "Extend ring and pinky fingers upward",
+        "Maintain other finger positions"
+      ]
+    },
+    {
+      "current_pair": [2, 5],
+      "differences": {
+        "thumb": "Current: curled inward | Target: extended outward",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Current: extended upward | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle thumb outward (away from palm)",
+        "Spread all fingers outward while maintaining extension"
+      ]
+    },
+    {
+      "current_pair": [2, 6],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend ring finger upward",
+        "Keep pinky curled as in current position"
+      ]
+    },
+    {
+      "current_pair": [2, 7],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Both curled (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend pinky outward while keeping other fingers unchanged"
+      ]
+    },
+    {
+      "current_pair": [2, 8],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle index finger outward",
+        "Extend ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [2, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Current: extended | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Extend middle, ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [3, 4],
+      "differences": {
+        "thumb": "Both extended (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Current: curled | Target: extended"
+      },
+      "correction_tips": [
+        "Extend ring and pinky fingers upward",
+        "Maintain other finger positions"
+      ]
+    },
+    {
+      "current_pair": [3, 5],
+      "differences": {
+        "thumb": "Current: extended upward | Target: extended outward",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Current: extended upward | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle all extended fingers outward (away from palm)",
+        "Spread ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [3, 6],
+      "differences": {
+        "thumb": "Both extended (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended",
+        "pinky": "Both curled (correct)"
+      },
+      "correction_tips": [
+        "Extend ring finger upward",
+        "Keep pinky curled as in current position"
+      ]
+    },
+    {
+      "current_pair": [3, 7],
+      "differences": {
+        "thumb": "Both extended (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Both curled (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend pinky outward while keeping other fingers unchanged"
+      ]
+    },
+    {
+      "current_pair": [3, 8],
+      "differences": {
+        "thumb": "Both extended (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle index finger outward",
+        "Extend ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [3, 9],
+      "differences": {
+        "thumb": "Both extended (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Current: extended | Target: extended outward",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Extend middle, ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [4, 5],
+      "differences": {
+        "thumb": "Current: curled inward | Target: extended outward",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Current: extended upward | Target: extended outward",
+        "ring": "Current: extended upward | Target: extended outward",
+        "pinky": "Current: extended upward | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend thumb outward (away from palm)",
+        "Angle all fingers outward while maintaining extension"
+      ]
+    },
+    {
+      "current_pair": [4, 6],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Both extended (correct)",
+        "pinky": "Current: extended | Target: curled"
+      },
+      "correction_tips": [
+        "Curl pinky finger inward",
+        "Keep other fingers extended"
+      ]
+    },
+    {
+      "current_pair": [4, 7],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Current: extended | Target: curled",
+        "pinky": "Current: extended | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl ring finger inward",
+        "Angle pinky finger outward"
+      ]
+    },
+    {
+      "current_pair": [4, 8],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Current: extended upward | Target: extended outward",
+        "pinky": "Current: extended upward | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle index, ring and pinky fingers outward",
+        "Keep middle finger curled"
+      ]
+    },
+    {
+      "current_pair": [4, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Current: extended | Target: extended outward",
+        "ring": "Current: extended upward | Target: extended outward",
+        "pinky": "Current: extended upward | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Angle middle, ring and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [5, 6],
+      "differences": {
+        "thumb": "Current: extended outward | Target: curled inward",
+        "index": "Current: extended outward | Target: extended upward",
+        "middle": "Current: extended outward | Target: extended upward",
+        "ring": "Current: extended outward | Target: extended upward",
+        "pinky": "Current: extended outward | Target: curled"
+      },
+      "correction_tips": [
+        "Curl thumb inward and pinky finger down",
+        "Angle index, middle and ring fingers upward"
+      ]
+    },
+    {
+      "current_pair": [5, 7],
+      "differences": {
+        "thumb": "Current: extended outward | Target: curled inward",
+        "index": "Current: extended outward | Target: extended upward",
+        "middle": "Current: extended outward | Target: extended upward",
+        "ring": "Current: extended outward | Target: curled",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Curl thumb inward and ring finger down",
+        "Angle index and middle fingers upward"
+      ]
+    },
+    {
+      "current_pair": [5, 8],
+      "differences": {
+        "thumb": "Current: extended outward | Target: curled inward",
+        "index": "Both extended (correct)",
+        "middle": "Current: extended outward | Target: curled",
+        "ring": "Both extended (correct)",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Curl thumb inward and middle finger down",
+        "Maintain extension of other fingers"
+      ]
+    },
+    {
+      "current_pair": [5, 9],
+      "differences": {
+        "thumb": "Current: extended outward | Target: curled inward",
+        "index": "Current: extended outward | Target: curled inward",
+        "middle": "Both extended (correct)",
+        "ring": "Both extended (correct)",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Curl both thumb and index fingers inward",
+        "Maintain extension of other fingers"
+      ]
+    },
+    {
+      "current_pair": [6, 7],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Both extended (correct)",
+        "middle": "Both extended (correct)",
+        "ring": "Both extended (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Extend pinky finger outward",
+        "Keep other fingers unchanged"
+      ]
+    },
+    {
+      "current_pair": [6, 8],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both curled (correct)",
+        "ring": "Both extended (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Angle index finger outward",
+        "Extend pinky finger outward"
+      ]
+    },
+    {
+      "current_pair": [6, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Current: extended | Target: extended outward",
+        "ring": "Both extended (correct)",
+        "pinky": "Current: curled | Target: extended outward"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Extend middle and pinky fingers outward"
+      ]
+    },
+    {
+      "current_pair": [7, 8],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: extended outward",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Angle index finger outward",
+        "Extend ring finger outward"
+      ]
+    },
+    {
+      "current_pair": [7, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended upward | Target: curled inward",
+        "middle": "Both extended (correct)",
+        "ring": "Current: curled | Target: extended outward",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Extend ring finger outward"
+      ]
+    },
+    {
+      "current_pair": [8, 9],
+      "differences": {
+        "thumb": "Both curled (correct)",
+        "index": "Current: extended outward | Target: curled inward",
+        "middle": "Both curled (correct)",
+        "ring": "Both extended (correct)",
+        "pinky": "Both extended (correct)"
+      },
+      "correction_tips": [
+        "Curl index finger inward",
+        "Maintain other finger positions"
+      ]
+    }
+  ]
+}

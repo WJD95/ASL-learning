@@ -1,0 +1,3610 @@
+{
+  "['airplane', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended outward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both extended outward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['airplane', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: relaxed inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended outward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to relaxed inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['airplane', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended outward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: extended outward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Extend middle upward",
+      "Extend ring upward",
+      "Adjust pinky from extended outward to extended upward"
+    ]
+  },
+  "['airplane', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended outward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward",
+      "Adjust pinky from extended outward to extended upward"
+    ]
+  },
+  "['airplane', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: touching index",
+      "index": "Current: extended upward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: extended outward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to touching index",
+      "Adjust index from extended upward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Adjust pinky from extended outward to extended upward"
+    ]
+  },
+  "['airplane', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: relaxed and aligned with fingers",
+      "index": "Current: extended upward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: extended outward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to relaxed and aligned with fingers",
+      "Adjust index from extended upward to extended outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Adjust pinky from extended outward to extended outward horizontally"
+    ]
+  },
+  "['airplane', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: extended upward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended outward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to extended upward",
+      "Curl index inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['airplane', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended outward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['airplane', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: extended outward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Curl pinky inward"
+    ]
+  },
+  "['airplane', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: extended outward horizontally",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended outward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to extended outward horizontally",
+      "Curl pinky inward"
+    ]
+  },
+  "['father', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to extended outward",
+      "Extend pinky outward"
+    ]
+  },
+  "['father', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both relaxed inward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['father', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to extended outward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['father', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to curled inward",
+      "Curl index inward",
+      "Extend pinky upward"
+    ]
+  },
+  "['father', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: touching index",
+      "index": "Current: extended upward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to touching index",
+      "Adjust index from extended upward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['father', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: relaxed and aligned with fingers",
+      "index": "Current: extended upward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: curled inward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to relaxed and aligned with fingers",
+      "Adjust index from extended upward to extended outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Extend pinky outward horizontally"
+    ]
+  },
+  "['father', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: extended upward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to extended upward",
+      "Curl index inward"
+    ]
+  },
+  "['father', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to curled inward",
+      "Curl index inward"
+    ]
+  },
+  "['father', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: curled inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to curled inward",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "['father', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed inward | Target: extended outward horizontally",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed inward to extended outward horizontally"
+    ]
+  },
+  "['hello', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended outward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Curl middle inward",
+      "Curl ring inward",
+      "Adjust pinky from extended upward to extended outward"
+    ]
+  },
+  "['hello', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: relaxed inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to relaxed inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['hello', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended outward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['hello', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['hello', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: touching index",
+      "index": "Current: extended upward | Target: touching thumb",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to touching index",
+      "Adjust index from extended upward to touching thumb"
+    ]
+  },
+  "['hello', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: relaxed and aligned with fingers",
+      "index": "Current: extended upward | Target: extended outward horizontally",
+      "middle": "Current: extended upward | Target: extended outward horizontally",
+      "ring": "Current: extended upward | Target: extended outward horizontally",
+      "pinky": "Current: extended upward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to relaxed and aligned with fingers",
+      "Adjust index from extended upward to extended outward horizontally",
+      "Adjust middle from extended upward to extended outward horizontally",
+      "Adjust ring from extended upward to extended outward horizontally",
+      "Adjust pinky from extended upward to extended outward horizontally"
+    ]
+  },
+  "['hello', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: extended upward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to extended upward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['hello', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['hello', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: curled inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['hello', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward | Target: extended outward horizontally",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward to extended outward horizontally",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "[\"I'm\", 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended upward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Extend index upward",
+      "Adjust pinky from extended upward to extended outward"
+    ]
+  },
+  "[\"I'm\", 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed inward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed inward",
+      "Extend index upward",
+      "Curl pinky inward"
+    ]
+  },
+  "[\"I'm\", 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "[\"I'm\", \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": []
+  },
+  "[\"I'm\", 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: touching index",
+      "index": "Current: curled inward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to touching index",
+      "Adjust index from curled inward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "[\"I'm\", 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed and aligned with fingers",
+      "index": "Current: curled inward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: extended upward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed and aligned with fingers",
+      "Extend index outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Adjust pinky from extended upward to extended outward horizontally"
+    ]
+  },
+  "[\"I'm\", 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended upward",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Extend thumb upward",
+      "Curl pinky inward"
+    ]
+  },
+  "[\"I'm\", 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Curl pinky inward"
+    ]
+  },
+  "[\"I'm\", 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Curl pinky inward"
+    ]
+  },
+  "[\"I'm\", 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward horizontally",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Extend thumb outward horizontally",
+      "Extend index upward",
+      "Curl pinky inward"
+    ]
+  },
+  "['love', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: extended outward",
+      "index": "Current: touching thumb | Target: extended upward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to extended outward",
+      "Adjust index from touching thumb to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Adjust pinky from extended upward to extended outward"
+    ]
+  },
+  "['love', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: relaxed inward",
+      "index": "Current: touching thumb | Target: extended upward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to relaxed inward",
+      "Adjust index from touching thumb to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['love', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: extended outward",
+      "index": "Current: touching thumb | Target: extended upward",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to extended outward",
+      "Adjust index from touching thumb to extended upward"
+    ]
+  },
+  "['love', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: curled inward",
+      "index": "Current: touching thumb | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to curled inward",
+      "Adjust index from touching thumb to curled inward",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['love', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both touching index (correct)",
+      "index": "Both touching thumb (correct)",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Both extended upward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['love', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: relaxed and aligned with fingers",
+      "index": "Current: touching thumb | Target: extended outward horizontally",
+      "middle": "Current: extended upward | Target: extended outward horizontally",
+      "ring": "Current: extended upward | Target: extended outward horizontally",
+      "pinky": "Current: extended upward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to relaxed and aligned with fingers",
+      "Adjust index from touching thumb to extended outward horizontally",
+      "Adjust middle from extended upward to extended outward horizontally",
+      "Adjust ring from extended upward to extended outward horizontally",
+      "Adjust pinky from extended upward to extended outward horizontally"
+    ]
+  },
+  "['love', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: extended upward",
+      "index": "Current: touching thumb | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to extended upward",
+      "Adjust index from touching thumb to curled inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['love', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: curled inward",
+      "index": "Current: touching thumb | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to curled inward",
+      "Adjust index from touching thumb to curled inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['love', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: curled inward",
+      "index": "Current: touching thumb | Target: extended upward",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to curled inward",
+      "Adjust index from touching thumb to extended upward",
+      "Curl pinky inward"
+    ]
+  },
+  "['love', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: touching index | Target: extended outward horizontally",
+      "index": "Current: touching thumb | Target: extended upward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: extended upward | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from touching index to extended outward horizontally",
+      "Adjust index from touching thumb to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['mother', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: extended outward",
+      "index": "Current: extended outward horizontally | Target: extended upward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: extended outward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to extended outward",
+      "Adjust index from extended outward horizontally to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Adjust pinky from extended outward horizontally to extended outward"
+    ]
+  },
+  "['mother', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: relaxed inward",
+      "index": "Current: extended outward horizontally | Target: extended upward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to relaxed inward",
+      "Adjust index from extended outward horizontally to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['mother', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: extended outward",
+      "index": "Current: extended outward horizontally | Target: extended upward",
+      "middle": "Current: extended outward horizontally | Target: extended upward",
+      "ring": "Current: extended outward horizontally | Target: extended upward",
+      "pinky": "Current: extended outward horizontally | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to extended outward",
+      "Adjust index from extended outward horizontally to extended upward",
+      "Adjust middle from extended outward horizontally to extended upward",
+      "Adjust ring from extended outward horizontally to extended upward",
+      "Adjust pinky from extended outward horizontally to extended upward"
+    ]
+  },
+  "['mother', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: curled inward",
+      "index": "Current: extended outward horizontally | Target: curled inward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to curled inward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Adjust pinky from extended outward horizontally to extended upward"
+    ]
+  },
+  "['mother', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: touching index",
+      "index": "Current: extended outward horizontally | Target: touching thumb",
+      "middle": "Current: extended outward horizontally | Target: extended upward",
+      "ring": "Current: extended outward horizontally | Target: extended upward",
+      "pinky": "Current: extended outward horizontally | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to touching index",
+      "Adjust index from extended outward horizontally to touching thumb",
+      "Adjust middle from extended outward horizontally to extended upward",
+      "Adjust ring from extended outward horizontally to extended upward",
+      "Adjust pinky from extended outward horizontally to extended upward"
+    ]
+  },
+  "['mother', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both relaxed and aligned with fingers (correct)",
+      "index": "Both extended outward horizontally (correct)",
+      "middle": "Both extended outward horizontally (correct)",
+      "ring": "Both extended outward horizontally (correct)",
+      "pinky": "Both extended outward horizontally (correct)"
+    },
+    "correction_tips": []
+  },
+  "['mother', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: extended upward",
+      "index": "Current: extended outward horizontally | Target: curled inward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to extended upward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['mother', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: curled inward",
+      "index": "Current: extended outward horizontally | Target: curled inward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to curled inward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['mother', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: curled inward",
+      "index": "Current: extended outward horizontally | Target: extended upward",
+      "middle": "Current: extended outward horizontally | Target: extended upward",
+      "ring": "Current: extended outward horizontally | Target: extended upward",
+      "pinky": "Current: extended outward horizontally | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to curled inward",
+      "Adjust index from extended outward horizontally to extended upward",
+      "Adjust middle from extended outward horizontally to extended upward",
+      "Adjust ring from extended outward horizontally to extended upward",
+      "Curl pinky inward"
+    ]
+  },
+  "['mother', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: relaxed and aligned with fingers | Target: extended outward horizontally",
+      "index": "Current: extended outward horizontally | Target: extended upward",
+      "middle": "Current: extended outward horizontally | Target: curled inward",
+      "ring": "Current: extended outward horizontally | Target: curled inward",
+      "pinky": "Current: extended outward horizontally | Target: curled inward"
+    },
+    "correction_tips": [
+      "Adjust thumb from relaxed and aligned with fingers to extended outward horizontally",
+      "Adjust index from extended outward horizontally to extended upward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Curl pinky inward"
+    ]
+  },
+  "['ok', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to extended outward",
+      "Extend index upward",
+      "Extend pinky outward"
+    ]
+  },
+  "['ok', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: relaxed inward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to relaxed inward",
+      "Extend index upward"
+    ]
+  },
+  "['ok', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to extended outward",
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['ok', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: curled inward",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Extend pinky upward"
+    ]
+  },
+  "['ok', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: touching index",
+      "index": "Current: curled inward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to touching index",
+      "Adjust index from curled inward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['ok', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: relaxed and aligned with fingers",
+      "index": "Current: curled inward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: curled inward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to relaxed and aligned with fingers",
+      "Extend index outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Extend pinky outward horizontally"
+    ]
+  },
+  "['ok', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended upward (correct)",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['ok', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: curled inward",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Curl thumb inward"
+    ]
+  },
+  "['ok', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: curled inward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "['ok', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended upward | Target: extended outward horizontally",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended upward to extended outward horizontally",
+      "Extend index upward"
+    ]
+  },
+  "['sorry', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Extend index upward",
+      "Extend pinky outward"
+    ]
+  },
+  "['sorry', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed inward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed inward",
+      "Extend index upward"
+    ]
+  },
+  "['sorry', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['sorry', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Extend pinky upward"
+    ]
+  },
+  "['sorry', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: touching index",
+      "index": "Current: curled inward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to touching index",
+      "Adjust index from curled inward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['sorry', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed and aligned with fingers",
+      "index": "Current: curled inward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: curled inward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed and aligned with fingers",
+      "Extend index outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Extend pinky outward horizontally"
+    ]
+  },
+  "['sorry', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended upward",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Extend thumb upward"
+    ]
+  },
+  "['sorry', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Both curled inward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['sorry', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Extend index upward",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "['sorry', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward horizontally",
+      "index": "Current: curled inward | Target: extended upward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Extend thumb outward horizontally",
+      "Extend index upward"
+    ]
+  },
+  "['water', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: curled inward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Extend pinky outward"
+    ]
+  },
+  "['water', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed inward",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['water', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Extend thumb outward",
+      "Extend pinky upward"
+    ]
+  },
+  "['water', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward",
+      "Extend pinky upward"
+    ]
+  },
+  "['water', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: touching index",
+      "index": "Current: extended upward | Target: touching thumb",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to touching index",
+      "Adjust index from extended upward to touching thumb",
+      "Extend pinky upward"
+    ]
+  },
+  "['water', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: relaxed and aligned with fingers",
+      "index": "Current: extended upward | Target: extended outward horizontally",
+      "middle": "Current: extended upward | Target: extended outward horizontally",
+      "ring": "Current: extended upward | Target: extended outward horizontally",
+      "pinky": "Current: curled inward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from curled inward to relaxed and aligned with fingers",
+      "Adjust index from extended upward to extended outward horizontally",
+      "Adjust middle from extended upward to extended outward horizontally",
+      "Adjust ring from extended upward to extended outward horizontally",
+      "Extend pinky outward horizontally"
+    ]
+  },
+  "['water', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended upward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Extend thumb upward",
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['water', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Curl index inward",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['water', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both curled inward (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Both extended upward (correct)",
+      "ring": "Both extended upward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": []
+  },
+  "['water', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: curled inward | Target: extended outward horizontally",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: extended upward | Target: curled inward",
+      "ring": "Current: extended upward | Target: curled inward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Extend thumb outward horizontally",
+      "Curl middle inward",
+      "Curl ring inward"
+    ]
+  },
+  "['yes', 'airplane']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "airplane",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended outward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended outward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to extended outward",
+      "Extend pinky outward"
+    ]
+  },
+  "['yes', 'father']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "father",
+        "finger_positions": {
+          "thumb": "relaxed inward",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: relaxed inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to relaxed inward"
+    ]
+  },
+  "['yes', 'hello']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "hello",
+        "finger_positions": {
+          "thumb": "extended outward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: extended outward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to extended outward",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['yes', \"I'm\"]": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "I'm",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward",
+      "Extend pinky upward"
+    ]
+  },
+  "['yes', 'love']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "love",
+        "finger_positions": {
+          "thumb": "touching index",
+          "index": "touching thumb",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "extended upward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: touching index",
+      "index": "Current: extended upward | Target: touching thumb",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Current: curled inward | Target: extended upward"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to touching index",
+      "Adjust index from extended upward to touching thumb",
+      "Extend middle upward",
+      "Extend ring upward",
+      "Extend pinky upward"
+    ]
+  },
+  "['yes', 'mother']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "mother",
+        "finger_positions": {
+          "thumb": "relaxed and aligned with fingers",
+          "index": "extended outward horizontally",
+          "middle": "extended outward horizontally",
+          "ring": "extended outward horizontally",
+          "pinky": "extended outward horizontally"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: relaxed and aligned with fingers",
+      "index": "Current: extended upward | Target: extended outward horizontally",
+      "middle": "Current: curled inward | Target: extended outward horizontally",
+      "ring": "Current: curled inward | Target: extended outward horizontally",
+      "pinky": "Current: curled inward | Target: extended outward horizontally"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to relaxed and aligned with fingers",
+      "Adjust index from extended upward to extended outward horizontally",
+      "Extend middle outward horizontally",
+      "Extend ring outward horizontally",
+      "Extend pinky outward horizontally"
+    ]
+  },
+  "['yes', 'ok']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "ok",
+        "finger_positions": {
+          "thumb": "extended upward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: extended upward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Adjust thumb from extended outward horizontally to extended upward",
+      "Curl index inward"
+    ]
+  },
+  "['yes', 'sorry']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "sorry",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "curled inward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: curled inward",
+      "index": "Current: extended upward | Target: curled inward",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Curl index inward"
+    ]
+  },
+  "['yes', 'water']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "water",
+        "finger_positions": {
+          "thumb": "curled inward",
+          "index": "extended upward",
+          "middle": "extended upward",
+          "ring": "extended upward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Current: extended outward horizontally | Target: curled inward",
+      "index": "Both extended upward (correct)",
+      "middle": "Current: curled inward | Target: extended upward",
+      "ring": "Current: curled inward | Target: extended upward",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": [
+      "Curl thumb inward",
+      "Extend middle upward",
+      "Extend ring upward"
+    ]
+  },
+  "['yes', 'yes']": {
+    "comparison": {
+      "current_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      },
+      "target_gesture": {
+        "name": "yes",
+        "finger_positions": {
+          "thumb": "extended outward horizontally",
+          "index": "extended upward",
+          "middle": "curled inward",
+          "ring": "curled inward",
+          "pinky": "curled inward"
+        }
+      }
+    },
+    "differences": {
+      "thumb": "Both extended outward horizontally (correct)",
+      "index": "Both extended upward (correct)",
+      "middle": "Both curled inward (correct)",
+      "ring": "Both curled inward (correct)",
+      "pinky": "Both curled inward (correct)"
+    },
+    "correction_tips": []
+  }
+}
